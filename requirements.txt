@@ -1,0 +1,8 @@
+scrapy
+beautifulsoup
+selenium
+gender-guesser
+
+pandas
+seaborn
+matplotlib
